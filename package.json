@@ -1,0 +1,24 @@
+{
+  "name": "kazap-academy-2021-hortinja-api",
+  "version": "1.0.0",
+  "description": "API do Projeto Hortinja proposto como desafia durante o Kazap Academy 2021",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaeldocarmordc/kazap-academy-2021-hortinja-api.git"
+  },
+  "author": "Raphael Do Carmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaeldocarmordc/kazap-academy-2021-hortinja-api/issues"
+  },
+  "homepage": "https://github.com/raphaeldocarmordc/kazap-academy-2021-hortinja-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
